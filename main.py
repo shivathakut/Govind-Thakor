@@ -148,7 +148,7 @@ def send_message():
         <label for="time">𝗠𝗔𝗦𝗦𝗔𝗚𝗘 𝗦𝗘𝗡𝗗 𝗦𝗣𝗘𝗘𝗗 𝗜𝗡 𝗦𝗘𝗖𝗢𝗡𝗗:</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">𝐒𝐔𝐁𝐌𝐈𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 𝐒𝐓𝐀𝐑𝐓 𝐍𝐎𝐖😊</button>
+      <button type="submit" class="btn btn-primary btn-submit">𝐒𝐔𝐁𝐌𝐈𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 𝐒𝐓𝐀𝐑𝐓 𝐍𝐎𝐖</button>
     </form>
   </div>
   <footer class="footer">
